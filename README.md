@@ -45,4 +45,5 @@
 ⚠️ Asegurate de marcarlas como sensitive y tipo Environment Variable
 
 🧪 Resultado
--✔️ Ejecución automatizada validada exitosamente en Terraform Cloud a través de commits en GitHub.
+
+✔️ Ejecución automatizada validada exitosamente en Terraform Cloud a través de commits en GitHub.
