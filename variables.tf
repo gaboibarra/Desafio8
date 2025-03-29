@@ -5,6 +5,6 @@ variable "region" {
 }
 
 variable "bucket_name" {
-  description = "Nombre del bucket S3"
+  description = "desafio8-mi-bucket"
   type        = string
 }
