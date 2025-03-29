@@ -30,7 +30,7 @@
 .
 ├── .github/
 │   └── workflows/
-│       └── terraform.yml      # Workflow de GitHub Actions
+│       └── terraform.yml     # Workflow de GitHub Actions
 ├── main.tf                   # Configuración principal
 ├── variables.tf              # Variables utilizadas
 ├── outputs.tf                # Outputs definidos
@@ -38,9 +38,9 @@
 ```
 
 🔐 Variables necesarias (en Terraform Cloud)
-AWS_ACCESS_KEY_ID 🔑
 
-AWS_SECRET_ACCESS_KEY 🔐
+- AWS_ACCESS_KEY_ID 🔑
+- AWS_SECRET_ACCESS_KEY 🔐
 
 ⚠️ Asegurate de marcarlas como sensitive y tipo Environment Variable
 
